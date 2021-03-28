@@ -1,7 +1,7 @@
 #by meilanli
 
 ## 1、介绍
-	1.动态链表结构的Key-Value数据库
+	1.动态链表结构的小型Key-Value数据库
 	2.key在数据库中必须唯一，value可以相同
 	3.存储位置:RAM
 	4.扩展使用:key、value都可以用来存储指针
